@@ -1,4 +1,4 @@
-# awesome mod
+#2.1 only, 2.2 doesnt need it
 
 to download the mod click the link under Releases on the right -->
 
